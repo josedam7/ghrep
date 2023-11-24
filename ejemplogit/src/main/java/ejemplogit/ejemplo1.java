@@ -11,6 +11,8 @@ public class ejemplo1 {
 		String mivariable;
 		String mientero;
 		
+		System.out.println("Ahora en git");
+		
 	}
 
 }
